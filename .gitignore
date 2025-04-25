@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+transcript.txt
+summary.txt
+.env
